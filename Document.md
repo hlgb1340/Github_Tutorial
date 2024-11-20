@@ -22,3 +22,14 @@
 - git push origin <branch name>
 
 # Các câu lệnh cơ bản
+
+- git branch -b <branch name> -> create new branch and remove to branch.
+- git branch <branch name> -> remove to branch.
+- git branch -d <branch name> -> Delete branch.
+- git branch -> View all branchs
+- git remote add <remote name> <link remote> -> Create new remote.
+- git add <file name> -> Add a file.
+- git add . -> Add all file.
+- git commit -m "message" -> Commit code (Note: Add code before commit code).
+- git push origin <branch name> -> Push code on branch (Note: Origin is name...).
+- git pull origin <branch name> -> Pull code on branch
