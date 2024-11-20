@@ -23,8 +23,8 @@
 
 # Các câu lệnh cơ bản
 
-- git branch -b <branch name> -> create new branch and remove to branch.
-- git branch <branch name> -> remove to branch.
+- git checkout -b <branch name> -> create new branch and remove to branch.
+- git checkout <branch name> -> remove to branch.
 - git branch -d <branch name> -> Delete branch.
 - git branch -> View all branchs
 - git remote add <remote name> <link remote> -> Create new remote.
